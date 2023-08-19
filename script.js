@@ -1,0 +1,1 @@
+var SubmitBtn = document.querySelector("hero-btn");
