@@ -43,7 +43,7 @@
 
 .left-box{
   flex-basis: 30%;
- background-image: url(/assets/images/bg-sidebar-desktop.svg);
+ background-image: url(./images/bg-sidebar-desktop.svg);
   background-position: center;
   background-size: cover;
   
